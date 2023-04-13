@@ -1,3 +1,3 @@
-module github.com/SecOpsBear/revproxy
+module github.com/secopsbear/revproxy
 
 go 1.19
