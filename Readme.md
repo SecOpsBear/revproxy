@@ -15,7 +15,7 @@ This project is a simple implementation of reverse proxy written in GO.
 ### revproxy install
 
 ```console
-go install github.com/SecOpsBear/revproxy@latest
+go install github.com/secopsbear/revproxy@latest
 ```
 
 ### Build for window
