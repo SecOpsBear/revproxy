@@ -10,6 +10,10 @@ This project is a simple implementation of reverse proxy written in GO.
 * Create a simple reverse proxy  
 * Routing traffic from host to the target host
 
+## Demo  
+  
+![revproxy demo](https://secopsbear.com/assets/images/revproxy-c1e87e8be8fae5b428d177e01fc5f703.gif)  
+
 ## How to build   
 
 ### revproxy install
